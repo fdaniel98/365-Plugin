@@ -43,7 +43,7 @@
         </group>
         <group name="producto-img" numcolumns="12">
             <column name="Link de la imagen" order="90">
-                <widget type="text" fieldname="imagen"/>
+                <widget type="text" fieldname="img"/>
             </column>
         </group>
         <group name="description" numcolumns="12">

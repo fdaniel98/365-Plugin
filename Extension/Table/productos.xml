@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <table>
     <column>
-        <name>imagen</name>
+        <name>img</name>
         <type>text</type>
     </column>
 </table>
