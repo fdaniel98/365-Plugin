@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<view>
+    <columns>
+        <group name="latitudes" numcolumns="6" valign="bottom">
+            <column name="Latitude">
+                <widget type="number" decimal="0" maxlength="30" fieldname="lat"/>
+            </column>
+        </group>
+    </columns>
+    <columns>
+        <group name="latitudes" numcolumns="6" valign="bottom">
+            <column name="Longitud">
+                <widget type="number" decimal="0" maxlength="30" fieldname="long"/>
+            </column>
+        </group>
+    </columns>
+</view>
